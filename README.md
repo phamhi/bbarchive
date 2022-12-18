@@ -9,9 +9,9 @@ This tool requires Python version 3.7 or newer.
 ## Too long; didn't read
 
 Update the `init.sh` file
-- update `BITBUCKET_SERVER_URL`
-- update `BITBUCKET_SERVER_USERNAME`
-- update `BITBUCKET_SERVER_PASSWORD`
+- update `BITBUCKET_URL`
+- update `BITBUCKET_USERNAME`
+- update `BITBUCKET_PASSWORD`
 
 Source the `init.sh` file
 ```shell
